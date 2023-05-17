@@ -1,0 +1,15 @@
+Responsibilities
+
+Abrar Usman: Responsible for tidying the Natural Gas.csv dataset, as well as conducting analysis and interpretation of the data thoroughly.  Also attempted to create graphs and wrote a lengthy introduction, data description, discussion of the article, and a brief conclusion based on the data analyzed from the RMD file. Although  graphs may not work, still responsible for their attempted creation.
+
+Alexandros Ioannou: Tidying, analyzing and interpreting the Electricity dataset. Responsible for all the code and graphs made for the Electricity dataset. Contributed to the introduction, data description, discussion of the online article, and the conclusion of the group report RMD file. Also had participation in the interpretation of the Coal dataset and also responsible for putting all the R code of the other group members into a single file.
+
+Anil Cagri Isilak: Tidying, graphing and analysing Sea Ice index dataset. Also helped with the tidying of the Electricity, Coal, and Biofuel dataset. Contributed to the introduction, data description, and the conclusion of the group report RMD file.
+
+Benjamin Strain: Tidying, analysing and graphing of the Biofuel dataset. Also contributed to the general tidying of the other datasets. Contributed to the data description of the report as well as the general interpretation of the other datasets. 
+
+
+Rupesh Rangwani: Tidying, analyzing and graphing the Coal data set. Contributed to finding the link for the discussion of the online article and also contributed in the writing aspect of it. Also participated in writing the conclusion of the report
+
+
+Shayaan Niazi: Tidying the PetroLiquids csv file to filter for Production and emissions for separate countries and world total and including tibbles for easier interpretation of data
